@@ -2,7 +2,7 @@
 Author: Garrett Berg (github.com/vitiral)
 Perspective: Toll Bansha
 Other characters: Maye Johnson
-Time period: 3 months after The Event.
+Time period: 3 months After Event
 Primary Location: Civboot A, main living areas.
 ```
 
