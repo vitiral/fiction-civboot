@@ -7,8 +7,12 @@ If you wish to make edits or suggestions please open an issue!
 The story is currently pushlished in a semi-episodic manner. A possible order
 to read them is below:
 
+Start:
 - [Toll Start Segment 1](toll/start1.md)
 - [Toll Start Segment 2](toll/start2.md)
+
+Comms:
+- [Comms Segment 1](toll/comms1.md)
 
 
 ## License
