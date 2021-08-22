@@ -26,7 +26,8 @@ drunk to being an insufferable snarky bastard. Vulgar jokes are a coping
 mechanism okay? I'm not normally this unfeeling but it sure beats feeling sad
 for myself all the time. I'm not just snarky, I'm also angry at pretty much
 everyone who's dead. I'm allowed to joke about the dead, seeing as I'm one of
-the few left who's still alive. Stages of grief okay?
+the few left who's still alive. It's all in the stages of grief, go read about
+it sometime.
 
 So anyway, I start trying to figure out what is wrong with our shit paper
 dispenser. This thing is way over-engineered if all you want to do is make

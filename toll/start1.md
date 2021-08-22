@@ -220,3 +220,4 @@ enough. It had been their jobs to iron out any kinks in the hardware, software
 and mechanisms so that it could be sent to Mars. Now it wasn't just a job, it
 was what their lives depended on.
 
+[Next segment](./start2.md)
