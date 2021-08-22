@@ -43,7 +43,7 @@ programmable in the console.
 Let's talk about the software in a Civboot. It is text based. The really
 advanced ones have little drawings consisting of wire meshes. It's like whoever
 built this place really loved watching Tron and dreamed of a retro-futuristic
-70's future. Having a PhD in computer science I know _why_ it is build this
+70's future. Having a PhD in computer science I know _why_ it is built this
 way, but it still sucks. Like everything else in this place they wanted
 everything to be "as simple as possible." The software is so basic that a
 teenager could probably understand and modify it.
@@ -54,11 +54,11 @@ keyboard. It pops up with:
 ```
 PAMELA: PlAnt MatEriaL mAker
 
-PAMELA creates materials of configurable properties from plant matter. Pamela's
+Pamela creates materials of configurable properties from plant matter. Pamela's
 full manual can be read with `man pamela`
 
 Commands:
-  config: view help on the config format for PAMELA.
+  config: view help on the config format for pamela.
   run <configuration> <args>: run a config with certain parameters.
   stop: stop the current job.
   diagnose [component]: diagnose the system or a specific component.
@@ -74,7 +74,7 @@ moving one piece of the machine after another. I see the following text scroll
 on the screen over the next minute or so:
 
 ```
-THICKNESS SENSOR A... OK, B... OK, C... OK
+THICKNESS SENSORS... OK
 SAW MOTOR... OK
 SAW POSITIONER... OK
 COMPRESS MOTOR... OK
@@ -90,19 +90,19 @@ OVERHEAD LIGHT... OK
 LOTION DISPENSER...
 ```
 
-What the lotion dispenser is I have no idea. My guess is it's a Baywatch joke
+What the `LOTION DISPENSER` is I have no idea. My guess is it's a Baywatch joke
 and it's for the glue dispenser. The diagnostics continued with most of the
 parts saying OK, some saying they required scheduled maintenance. The
 Horizontal Actuator was apparently malfunctioning. Pamela, you're a real life
-saver (get it?).
+saver.
 
 Re-reading the help menu I see there are actually maintenance logs for the failing
-part. I type `logs view "HORIZONTAL ACTUATOR"` and see the following logs from
-about a year ago:
+part. I type `logs view "HORIZONTAL ACTUATOR"` as suggested and see the
+following logs from about a year ago:
 
 ```
 1. reran diagnostics for failing part, watching motion
-  diagnose "HORIZONTAL ACTUATOR"
+  Command: diagnose "HORIZONTAL ACTUATOR"
 2. bed jerked, possible jam.
 3. manually inspected by moving forward/backward
 4. noticed bent arm piece. Not sure what caused.
@@ -115,24 +115,24 @@ the bent part and re-ran diagnostics. It came back with:
 
 ```
 HORIZONTAL ACTUATOR...  WARN
-  NOW OK. PREVIOUS FAILURE DETECTED.
+  OK. PREVIOUS FAILURE DETECTED.
   UPDATE LOGS WITH:
     logs update "HORIZONTAL ACTUATOR"
 ```
 
-I updated the logs to say to refer to the last log. I then looked at the
-configuration files and found the configuration for making toilet paper.
-I told Pamela to make 20 days worth of toilet paper for five people. I also
+I updated the logs to say to refer to the previous log. I then looked at the
+configuration files and found the configuration for making toilet paper.  I
+told pamela to make 20 days worth of toilet paper for five people. I also
 updated the scheduled toilet paper production to be for only five people
-instead of the previous six... I wonder how many places had the number
-of inhabitants hard-coded and would need to be manually updated?
+instead of the previous six... I wonder how many places have the number of
+inhabitants hard-coded and would need to be manually updated?
 
-At this point I was starting to feel pretty good about this whole tin can.
-There had been a problem with a system and it had been solvable by the
-previous maintenance log with no expertise required. Why the metal part kept
-getting bent was definitely something that should be looked into...  but it had
-happened a year ago, there were more pressing matters. The point was, maybe we
-were going to be able to survive in this Civboot after all.
+At this point I was starting to feel pretty good about living in this
+particular tin can. There had been a problem with a system and it had been
+solvable by the previous maintenance log with no expertise required. Why the
+metal part kept getting bent was definitely something that should be looked
+into...  but it had happened a year ago, there were more pressing matters. The
+point was, maybe we were going to be able to survive in this Civboot after all.
 
 I did have one more curiosity though. I typed `man pamela` and searched for
 `LOTION`. I wish I hadn't.
@@ -146,4 +146,5 @@ the wood harder.
 
 Pamela applies lotion... to "make the wood harder". How much of the software
 or other components are designed by teenage boys who are way too amused by
-sex jokes? Never-mind about feeling good, we're totally fucked.
+sex jokes? Never-mind about feeling good, we are totally and completely fucked.
+

@@ -2,9 +2,8 @@ This repository contains Civboot related fiction written by Garrett Berg. This
 fiction is currently completely free to read but retains its creative license.
 If you wish to make edits or suggestions please open an issue!
 
-
 ## Story
-The story is currently pushlished in a semi-episodic manner. A possible order
+The story is currently published in a semi-episodic manner. A possible order
 to read them is below:
 
 Start:
