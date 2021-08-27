@@ -12,6 +12,7 @@ Start:
 
 Comms:
 - [Comms Segment 1](toll/comms1.md)
+- [Comms Segment 2](toll/comms2.md)
 
 
 ## License

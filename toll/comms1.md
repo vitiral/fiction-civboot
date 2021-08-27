@@ -34,12 +34,13 @@ Also, making a game is an excuse to better understand Civboot's software and
 hardware. It's seriously got some wonky ideas. It's been around for a while,
 just search for [Civboot.org](http://civboot.org) in your internet archive if
 you haven't read about it. At the lowest level it basically eschews all modern
-convenience to build up an extremely basic language called Forth in almost pure
-machine code. It uses this to create another programming language named fngi.
-Fngi is super low level but very extensible, not only in what it can build but
-in the fact that it can modify itself. All the text-based interfaces like
-PAMELA are actually implemented as a _library_ which altered the fngi language
-itself to behave more like a command line than a programming language. Smart.
+convenience to build up an extremely basic language called Forth in a thousand
+bytes of pure machine code. It uses this to create another programming language
+called fngi. Fngi is super low level but very extensible, not only in what it
+can build but in the fact that it can modify itself. All the text-based
+interfaces like PAMELA are actually implemented as a _library_ which altered
+the fngi language itself to behave more like a command line than a programming
+language. Smart.
 
 I'm going to tell you about my game because it's my journal and so I can do
 whatever I want. You play as a princess who's crown has been stolen by evil
@@ -60,27 +61,27 @@ without a kingdom? Pretty depressing, but violence and tragedy is cathartic.
 
 Seriously, communicating with the other Civboots is completely impossible.
 Don't get me wrong, I'm glad Tay's in charge again. Even through this
-depressive episode, I've still been doing real work like harvesting the farms
-and doing maintenance. I've even learned a bit more about our mechanical
-systems, although I'm still worried about what happens if we encounter a real
-problem that doesn't involve reading a log and bending a piece of metal back
-into place. The thought of it stresses me out and makes me not want to think
-about it any more. Which means I'll play more of my video game or add a new
-enemy.
+depressive period, I've still been doing work like harvesting the farms and
+doing maintenance. Getting things done feels good for me. I've even learned a
+bit more about our mechanical systems, although I'm still worried about what
+happens if we encounter a real problem that doesn't involve reading a log and
+bending a piece of metal back into place. The thought of it stresses me out and
+makes me not want to think about it any more. Which means I need to be playing
+more video games.
 
 Back to the problem of communicating with other Civboots. We're supposed to
 have a dedicated satellite network solely for Civboots and other NASA assets.
 This system is supposed to be completely resilient to failure. I guess whoever
 programmed the nuclear response system also programmed our satellites, because
-when I try to connect all I get is an error that it can't find any name-servers
+when I try to connect, all I get is an error that it can't find any name-servers
 and it refuses to do anything else. Of course it can't find any name-servers,
 the fucking world has ended. Someone forgot to put the backup routines in
 place. This is why I hate modern software and am starting to respect Civboot
 more and more. Modern software is a stack of cards; and the table it's built on
-is made of wet graham crackers half-baked by unpaid engineers for fun. As
-PAMELA showed me, the latter description is Civboot's _entire_ software stack,
-but at least Civboot is transparent about it and shows you how to bake your own
-graham crackers.
+is made of wet graham crackers half-baked by unpaid engineers for fun. Then
+again, PAMELA showed me that Civboot's entire software stack is _literally_
+made by teenagers who are way too into Baywatch. At least Civboot is
+transparent about it I guess.
 
 Normally at this point I would just throw the satellite connection away and hook
 up a HAM radio. Problem is, we are 1,000 meters underground and nobody thought
@@ -90,8 +91,8 @@ earth. What they cannot do is travel through 1,000 meters of rock. Even if I
 could build a HAM radio, nobody is going to step foot outside for it to get a
 signal.
 
-So like I said, completely impossible. I'm going to finish making this cool
-cyborg pig with a rocket launcher and then do some software testing for the
-next four or so hours.
+So like I said, completely impossible. Instead, I'm going to finish making this
+cool cyborg pig with a rocket launcher and then do some "software testing", aka
+play vide games, for the next four or so hours.
 
 [Next segment](./comms2.md)
