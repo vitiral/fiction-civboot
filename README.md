@@ -6,6 +6,9 @@ If you wish to make edits or suggestions please open an issue!
 The story is currently published in a semi-episodic manner. A possible order
 to read them is below:
 
+Underground (T-2 months)
+- [Toll Underground 1](toll/underground1.md)
+
 Healing (2 months)
 - [Toll Healing 1](toll/healing1.md)
 - [Toll Healing 2](toll/healing2.md)
