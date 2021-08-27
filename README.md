@@ -6,13 +6,14 @@ If you wish to make edits or suggestions please open an issue!
 The story is currently published in a semi-episodic manner. A possible order
 to read them is below:
 
-Start:
-- [Toll Start Segment 1](toll/start1.md)
-- [Toll Start Segment 2](toll/start2.md)
+Healing (2 months)
+- [Toll Healing 1](toll/start1.md)
+- [Toll Healing 2](toll/start2.md)
+- [Toll Healing 3](toll/start3.md)
 
-Comms:
-- [Comms Segment 1](toll/comms1.md)
-- [Comms Segment 2](toll/comms2.md)
+Comms (3 months)
+- [Toll Comms 1](toll/comms1.md)
+- [Toll Comms 2](toll/comms2.md)
 
 
 ## License

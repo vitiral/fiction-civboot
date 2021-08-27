@@ -148,3 +148,4 @@ Pamela applies lotion... to "make the wood harder". How much of the software
 or other components are designed by teenage boys who are way too amused by
 sex jokes? Never-mind about feeling good, we are totally and completely fucked.
 
+[Next segment](./healing3.md)

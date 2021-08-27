@@ -7,8 +7,6 @@ Primary Location: Civboot A, main living areas.
 ```
 
 
-# Segment 1
-
 Toll awoke with a groan. Immediately the headache hit him, hammering into his
 skull and forcing him to lay back down. He glanced around him, seeing the TV
 of only blank digital static. He closed his eyes, wishing to go back to
@@ -220,4 +218,4 @@ enough. It had been their jobs to iron out any kinks in the hardware, software
 and mechanisms so that it could be sent to Mars. Now it wasn't just a job, it
 was what their lives depended on.
 
-[Next segment](./start2.md)
+[Next segment](./healing2.md)
