@@ -2,7 +2,7 @@
 Author: Garrett Berg (github.com/vitiral)
 Perspective: Toll Bansha
 Other characters: Maye Johnson, Taylor (Tay) Hill
-Time period: 6 months After Event
+Time period: 5 months After Event
 Primary Location: Civboot A
 ```
 
@@ -41,8 +41,8 @@ in the fact that it can modify itself. All the text-based interfaces like
 PAMELA are actually implemented as a _library_ which altered the fngi language
 itself to behave more like a command line than a programming language. Smart.
 
-I'm going to tell you about my game because it's my journal and so you have to
-listen to me. You play as a princess who's crown has been stolen by evil
+I'm going to tell you about my game because it's my journal and so I can do
+whatever I want. You play as a princess who's crown has been stolen by evil
 cyborg pigs. Your crown is seriously magical and has made the Cyborg Pig Lord
 and his minions super powerful. The whole game is created using only Civboot
 technology, so the graphics are terrible. Think original Mario or Zelda or
