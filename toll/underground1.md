@@ -98,6 +98,5 @@ bag and shaking his hand. "I wish you the best of luck down here. You let us
 know if there's anything we can do for you. Chances are, we can't." He gave a
 chuckle.
 
-*Bastard* thought Toll, but he thanked him anyway as he walked through the
-doors.
+*Bastard* thought Toll, but he thanked him anyway before walking through the door.
 
