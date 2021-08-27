@@ -7,8 +7,10 @@ The story is currently published in a semi-episodic manner. A possible order to
 read them is below.
 
 > This work is **in progress**. Updates may be published, edited, modified or
-> removed by the author in any order without warning. The work is completely
-> free to read while it is hosted on this site.
+> removed by the author in any order without warning. Some of the characters,
+> plot points, etc may not be clear since how the story ended up there is still
+> in my skull or hasn't been fully flushed out. Appologies and thanks for
+> reading.
 
 Underground (T - 2 months)
 - [Toll Underground 1](toll/underground1.md)
