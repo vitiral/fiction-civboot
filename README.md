@@ -1,5 +1,6 @@
-This repository contains Civboot related fiction written by Garrett Berg. This
-fiction is currently completely free to read but retains its creative license.
+This repository contains [Civboot](http://civboot.org) related fiction written
+by Garrett Berg. This fiction is currently completely free to read but retains
+its creative license.
 
 ## Story
 The story is currently published in a semi-episodic manner. A possible order to
@@ -33,5 +34,6 @@ work licensed to yourself that uses this universe directly, please open an
 issue and we can discuss.
 
 It should go without saying that the concept of a Civboot _itself_ is not
-licensed to Garrett Berg and is in the public domain at civboot.org
+licensed to Garrett Berg and is in the public domain at
+[civboot.org](http://civboot.org).
 
