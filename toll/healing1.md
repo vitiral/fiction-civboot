@@ -44,15 +44,15 @@ Nearly three months he'd been like this, going off and on between drinking
 heavily and doing anything he could to numb himself. He wasn't sure how long he
 could stay alive in this state of perpetual despair. Jamie had killed himself
 on the second day.  The knowledge that his family had been incinerated in one
-of the first rounds of H Bombs had put him first into a kind of stasis. Toll
-hadn't even seen the man cry. There was just two days of shock followed by a
-rope around his neck and his body hanging from a pipe.
+of the first rounds of H Bombs had put him into a kind of stasis. Toll hadn't
+even seen the man cry. There was just two days of shock followed by a rope
+around his neck and his body hanging from a pipe.
 
 They had held a kind of funeral, the five of them who were left. It had felt
 like a funeral for all civilization, although at that time they hadn't known
 how much worse it could get. The funeral had been pretty pathetic, mostly
 silent sobs with a few words to Jamie's credit. Then they had put his body in
-the industrial composer. There wasn't anywhere else to put him. Everyone
+the industrial composter. There wasn't anywhere else to put him. Everyone
 thought of maybe joining him, letting their particles dissolve back into the
 microbial and Mycenaean matter we all came out of. But nobody else did. Everyone
 just walked away and dealt with the immense loss of a colleague and their entire
