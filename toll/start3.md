@@ -9,7 +9,7 @@ Primary Location: Civboot A, main living areas
 When I came into the mess hall, the director of Civboot Alpha, Dr Taylor Jong,
 was already there sitting by herself; staring at a picture. She looked
 different than I had remembered her. I had always thought her face was
-particularily wrinkle free for someone in their lower sixties. In the last
+particularly wrinkle free for someone in their lower sixties. In the last
 three months, her face seemed to have aged ten years. Distinct wrinkles formed
 around the eyes of a face that had, until now, rarely formed an expression.
 
@@ -25,7 +25,7 @@ It was she who broke the silence. "A picture of my family" she said, sliding
 the picture to me. "I've been staring at it almost continuously for the last
 three months. It seems my tears have run out."
 
-I took the picuture. It was a three generation photo with at least sixteen
+I took the picture. It was a three generation photo with at least sixteen
 people in it, many of them little kids. "Your kids and grandchildren?"
 
 She nodded. "Dead now of course. In heaven with almost everyone else." Then,
@@ -33,7 +33,7 @@ taking a deep breath "It's time I accept that. Time I move on."
 
 A kind of silence hung in the air. Yup, I still don't know how to talk to
 people.  Truth is I had never been good at discussing religion without being
-offensive to others, and I found it particularily hard to understand how anyone
+offensive to others, and I found it particularly hard to understand how anyone
 could believe in a biblical God now that Revelation had literally passed. The
 apocalypse had come and gone, four horsemen and all. There was no City on a
 Hill. No Jesus Christ descended from heaven. Just death, destruction and
@@ -50,17 +50,17 @@ humor is a bit fucked up."
 Dr Jong chuckled "A fucked up humor is healthy in a time like this. So too is
 your feeling of numbness. Few in history have ever experienced anything
 comparable. Maybe Noah at the flood of the world? Yet despite the earth itself
-crying for 40 days and nights, there was litle mention of Noah's sadness. How
+crying for 40 days and nights, there was little mention of Noah's sadness. How
 are we supposed to feel? Supposed to cope?" Her face took on an expression of
 almost anger "Fuck how we are supposed to cope. Just let the feelings be what
 they are. All things come and go. This too shall pass." It was said almost
-stoicly, yet there was some sadness. The well could never go completely dry.
+stoical, yet there was some sadness. The well could never go completely dry.
 
-"As a former Medical Commander in the Navy I thought myself pretty reslilient"
+"As a former Medical Commander in the Navy I thought myself pretty resilient"
 she continued. "Nobody but a true sociopath could be resilient to what has
 happened. As a doctor I try to remind myself the need to heal, that sometimes
 healing is more painful than the wound. Sometimes you never recover. Or
-recovery means permanant change. We will never be the same again. But we must
+recovery means permanent change. We will never be the same again. But we must
 try to go on, in whatever way we can."
 
 More silence, this time less uncomfortable. We just sat, eating oatmeal for
@@ -102,11 +102,11 @@ want."
 
 "Okay," said Tay "and how about you Maye?"
 
-"I"m a bioengineer in verticle farming, breeding, genetics and optimized food
+"I"m a bio-engineer in vertical farming, breeding, genetics and optimized food
 production. I've also done some work with recycling difficult to process
 industrial waste into compostable or manufacturable materials."
 
-"Maye is leaving out that she's a fucking genious." I cut in. "She invented a
+"Maye is leaving out that she's a fucking genius." I cut in. "She invented a
 process whereby fungi consumes plastic waste and byproducts to become compost
 for food. We literally couldn't have most of our plastics down here if it
 weren't for her, since we wouldn't be able to truly recycle them."
@@ -128,7 +128,7 @@ a good store for when something goes wrong."
 "The chances aren't good. The Mars Civboot, which this one is trying to
 replicate, has had three events in the last five years where each required at
 least several month's worth of food. One of them required purging and
-restarting almost the entire verticle farm, causing a loss of almost five
+restarting almost the entire vertical farm, causing a loss of almost five
 months of food. Of course, that was when there was a hull breach and the entire
 farm was exposed to the Martian atmosphere, which couldn't happen here..." she
 trailed off a bit. Yes, we wouldn't loose our food, but none of us wanted to
@@ -142,13 +142,13 @@ shouldn't pose too much of a challenge."
 
 Tay nodded, "Then do it. Let me know any way I can help. I've actually pickled
 a fair amount of daikon radish to help make my mother's South Korean recipes.
-Pickiling some food sounds like just the right speed." She changed her glance
+Pickling some food sounds like just the right speed." She changed her glance
 to me "Now, for software there is one thing I want more than anything and that
 is to be able to communicate with the other Civboots. Especially Mars,
 which will have the best of the best for Civboot expertise. I've been trying to
-get a connection on the satelite, but there seems to be some kind of error."
+get a connection on the satellite, but there seems to be some kind of error."
 
 She scribbled down a few notes on a piece of paper and handed it to me, "That
-is the password which is supposed to give us access to the satelite. Your first
+is the password which is supposed to give us access to the satellite. Your first
 task from me as your leader is to make contact with the other Civboots."
 
