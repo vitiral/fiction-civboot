@@ -1,10 +1,13 @@
 This repository contains Civboot related fiction written by Garrett Berg. This
 fiction is currently completely free to read but retains its creative license.
-If you wish to make edits or suggestions please open an issue!
 
 ## Story
-The story is currently published in a semi-episodic manner. A possible order
-to read them is below:
+The story is currently published in a semi-episodic manner. A possible order to
+read them is below.
+
+> This work is **in progress**. Updates may be published, edited, modified or
+> removed by the author in any order without warning. The work is completely
+> free to read while it is hosted on this site.
 
 Underground (T - 2 months)
 - [Toll Underground 1](toll/underground1.md)
@@ -26,6 +29,9 @@ your suggestions to be owned by Garrett Berg.
 
 I hope to use this work as a possible income stream to support Civboot work,
 so improvements submited by you can hopefully help. If you wish to create your
-own "related" Civboot fiction within this universe, please open an issue and we
-can discuss.
+work licensed to yourself that uses this universe directly, please open an
+issue and we can discuss.
+
+It should go without saying that the concept of a Civboot _itself_ is not
+licensed to Garrett Berg and is in the public domain at civboot.org
 
