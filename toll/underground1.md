@@ -100,3 +100,104 @@ chuckle.
 
 *Bastard* thought Toll, but he thanked him anyway before walking through the door.
 
+Just inside was a woman in her upper fifties. Toll guessed it to be Dr Jong,
+the head of Civboot Alpha. "Welcome to Alpha, Toll" said Dr Jong. She advanced
+towards him, her arms outstretched, giving him a full body hug. Toll returned
+it stiffly, surprised. Dr Jong chuckled "I assume you were made aware of our
+custom of our custom of greeting with a hug."
+
+"Yes, sorry" said Toll, "It's just something I'm not used to."
+
+"Treat is like a custom in a foreign country. Except, this custom was created
+for medical reasons. You see, a few hugs a day have been proven to reduce
+stress, anxiety and a host of other neurosis more effectively than many
+medications."
+
+"And I bet with fewer side effects" joked Toll.
+
+Dr Jong just gave a polite smile. "We'll introduce you to the crew in a bit.
+First let me show you around." While they walked she asked "do you have any
+questions?"
+
+The hallway they were walking through was basically a long tube easily four
+meters in diameter, with a flattened wood-like bottom and pipes running on the
+side.  "I'm surprised how spacious things feel" said Toll. "This hallway feels
+big. Much bigger than a normal hallway anyway. I had expected it to be more
+confining."
+
+"Yes, that is a result of two things. The first is the same reason as the hugs.
+The human psyche is not used to living underground, so tricking it with space
+and light can help our psychological well-being considerably. The second is that
+almost every hallway and room in the Civboot was drilled using the exact same
+drill. This helps reduce the number of tools needed to build or expand a
+Civboot. Reducing the number of thirty ton drills you need to bring to Mars is
+good, all things being equal."
+
+She stopped in front of what looked like the mess hall. She continued, "How to
+reduce what must be taken to Mars and how to keep people from going insane are
+probably the two major design constraints for many elements in the Mars
+Civboot." She waved a hand behind her, "this is our Mess hall." 
+
+Like the hallway, it was a four meter wide cylinder, but on the right side was a
+table with benches that could seat at least fifteen people. At the end was a
+full kitchen with a sink, industrial washing machine, stove, oven, counter tops and
+refrigerators. Toll noticed the whole facility so far had been perfectly clean
+and made a mental note that he would have to be as well. Since he was something
+of a slob, this would take a lot of effort.
+
+Dr Jong continued touring the facility. Toll met three of the other residents,
+greeting them with full hugs as he had with Dr Jong. The custom was already
+growing on him. when they arrived at the vertical farms, a woman in her mid
+thirties was working, inspecting some pieces of a plant under a microscope.
+When she heard them approach she looked up.
+
+"This is Maye. Maye, this is Toll Bansha our new resident software engineer."
+Maye stayed sitting, so Toll greeted her with a handshake which she returned
+with a smile.
+
+"Good to meet you" she said. "Once you're settled I think I need some help with
+the auto harvester. Jamie and I think it has a software issue when harvesting
+the raspberries and it would be good if someone could take a look."
+
+"I can certainly try" said Toll, but he didn't know how much he could help. He
+had learned a little bit of Civboot software in his three month training, but
+had never looked at this particular stack. "Hopefully I can at least confirm it
+is a software bug, then NASA can help determine the fix." There was a team of
+at least fifty engineers tasked with helping to solve any issues the Civboot
+had, as well as review and verify any code or design changes made. Their top
+priority was always Mars, but Toll had been told they could typically help
+within a day or two.
+
+"Excellent, sounds like a plan" broke in Dr Jong. "Toll, why don't I take you
+to your bunk tube and let you get settled. We all eat in the mess hall at 6:00
+PM. You can get started on this work in the morning."
+
+Toll waved to Maye and followed Dr Jong back to his bunk. It was a square box
+made of some kind of durable white plastic, more than two meters long, a meter
+tall and a meter wide.
+
+"This is your personal bunk, below you is Jamie. Before you ask, the bunks are
+completely noise isolated. There is no lock, but I can promise you nobody will
+ever go in it. Inside is a clean set of uniforms for you to change into and
+space for your personal effects. This is the primary private space we have, but
+there are also two some environmental viewing rooms which can play a variety of
+natural environments as well as music. If you want one, you need to schedule
+it, as they are occupied very frequently."
+
+With that she gave Toll another hug and left, probably to do her other duties.
+Toll changed into the Civboot uniform, essentially durable khakis and a T-shirt,
+with a long sleeve shirt option for those who were prone to being chilly. There
+were also a pair of socks, work boots made of a synthetic leather and even
+Civboot underwear. In addition was a personal device, something that looked
+like a large wrist watch. It had several buttons and could also come unhooked
+from your wrist to fold out a thumb keypad.
+
+He got inside his bunk and removed his civilian clothing and stashed it at the
+bottom of his personal effects. He wouldn't be needing it any more. He put the
+Civboot uniform on, feeling a sense of oddness when done. He lay back, trying
+to gauge his feelings. Sad... alone... maybe a little scared. "What the fuck
+have I got myself into" he said to the empty bunk. He felt as if he had chosen
+to become a prisoner. A prisoner in a prison with lots of hugs and tech and
+which was deep, deep, deep underground. Was this really what he wanted? Was
+_this_ something that would really help him to feel less empty inside?
+
