@@ -104,14 +104,13 @@ Just inside was a woman in her upper fifties. Toll guessed it to be Dr Jong,
 the head of Civboot Alpha. "Welcome to Alpha, Toll" said Dr Jong. She advanced
 towards him, her arms outstretched, giving him a full body hug. Toll returned
 it stiffly, surprised. Dr Jong chuckled "I assume you were made aware of our
-custom of our custom of greeting with a hug."
+custom of greeting with a hug."
 
 "Yes, sorry" said Toll, "It's just something I'm not used to."
 
-"Treat is like a custom in a foreign country. Except, this custom was created
-for medical reasons. You see, a few hugs a day have been proven to reduce
-stress, anxiety and a host of other neurosis more effectively than many
-medications."
+"Treat it like a custom in a foreign country. Except, it  was created for
+medical reasons. You see, a few hugs a day have been proven to reduce stress,
+anxiety and a host of other neurosis more effectively than many medications."
 
 "And I bet with fewer side effects" joked Toll.
 
@@ -120,10 +119,10 @@ First let me show you around." While they walked she asked "do you have any
 questions?"
 
 The hallway they were walking through was basically a long tube easily four
-meters in diameter, with a flattened wood-like bottom and pipes running on the
-side.  "I'm surprised how spacious things feel" said Toll. "This hallway feels
-big. Much bigger than a normal hallway anyway. I had expected it to be more
-confining."
+meters in diameter. The bottom was flat, made of a wood-like material. It has
+pipes running on the right side. "I'm surprised how spacious things feel" said
+Toll. "This hallway feels big. Much bigger than a normal hallway anyway. I had
+expected it to be more confining."
 
 "Yes, that is a result of two things. The first is the same reason as the hugs.
 The human psyche is not used to living underground, so tricking it with space
@@ -147,7 +146,7 @@ of a slob, this would take a lot of effort.
 
 Dr Jong continued touring the facility. Toll met three of the other residents,
 greeting them with full hugs as he had with Dr Jong. The custom was already
-growing on him. when they arrived at the vertical farms, a woman in her mid
+growing on him. When they arrived at the vertical farms, a woman in her mid
 thirties was working, inspecting some pieces of a plant under a microscope.
 When she heard them approach she looked up.
 
@@ -161,43 +160,46 @@ the raspberries and it would be good if someone could take a look."
 
 "I can certainly try" said Toll, but he didn't know how much he could help. He
 had learned a little bit of Civboot software in his three month training, but
-had never looked at this particular stack. "Hopefully I can at least confirm it
-is a software bug, then NASA can help determine the fix." There was a team of
-at least fifty engineers tasked with helping to solve any issues the Civboot
-had, as well as review and verify any code or design changes made. Their top
+had never even seen a harvester. "Hopefully I could help at least confirm it's a
+software bug, then NASA can help determine the fix." There was a team of at
+least fifty engineers tasked with helping to solve any issues the Civboot had,
+as well as review and verify any code or design changes made. Their top
 priority was always Mars, but Toll had been told they could typically help
-within a day or two.
+with even small problems within a day or two.
 
 "Excellent, sounds like a plan" broke in Dr Jong. "Toll, why don't I take you
-to your bunk tube and let you get settled. We all eat in the mess hall at 6:00
-PM. You can get started on this work in the morning."
+to your bunk and let you get settled. We all eat in the mess hall at 6:00 PM.
+You can get started on this work in the morning."
 
-Toll waved to Maye and followed Dr Jong back to his bunk. It was a square box
-made of some kind of durable white plastic, more than two meters long, a meter
-tall and a meter wide.
+Toll waved goodbye to Maye and followed Dr Jong back to his bunk. It was a
+square box made of some kind of durable white plastic, more than two meters
+long, a meter tall and a meter wide. The hallway they were in shot off the
+main one and was a lot more constrained than the others, the room taken up
+by about thirty bunks in rows.
 
 "This is your personal bunk, below you is Jamie. Before you ask, the bunks are
-completely noise isolated. There is no lock, but I can promise you nobody will
-ever go in it. Inside is a clean set of uniforms for you to change into and
-space for your personal effects. This is the primary private space we have, but
-there are also two some environmental viewing rooms which can play a variety of
-natural environments as well as music. If you want one, you need to schedule
-it, as they are occupied very frequently."
+completely noise isolated. There is no lock, but I can promise that nobody will
+ever go in it. The drawers inside have a clean set of uniforms for you to
+change into and space for your personal affects. This is the primary private
+space availble to you, but there are also two some environmental viewing rooms
+which can play a variety of natural environments as well as music. If you want
+one, you need to schedule it, as they are occupied very frequently."
 
-With that she gave Toll another hug and left, probably to do her other duties.
-Toll changed into the Civboot uniform, essentially durable khakis and a T-shirt,
-with a long sleeve shirt option for those who were prone to being chilly. There
-were also a pair of socks, work boots made of a synthetic leather and even
-Civboot underwear. In addition was a personal device, something that looked
-like a large wrist watch. It had several buttons and could also come unhooked
-from your wrist to fold out a thumb keypad.
+Toll said thanks, feeling she had to go. She gave him another hug and left to do
+her other duties. Toll changed into the Civboot uniform, essentially durable
+khakis and a T-shirt, pair of socks, work boots made of a synthetic leather and
+even Civboot underwear. There was also  a personal electronic device, something
+that looked like a large wrist watch. It had several buttons and could also
+come unhooked from your wrist to fold out a thumb keypad. Like many things in
+the Civboot it looked like it had been made in the 80's but designed by a
+person from the present.
 
-He got inside his bunk and removed his civilian clothing and stashed it at the
+Toll got inside his bunk and removed his civilian clothing, stashing it at the
 bottom of his personal effects. He wouldn't be needing it any more. He put the
 Civboot uniform on, feeling a sense of oddness when done. He lay back, trying
 to gauge his feelings. Sad... alone... maybe a little scared. "What the fuck
 have I got myself into" he said to the empty bunk. He felt as if he had chosen
-to become a prisoner. A prisoner in a prison with lots of hugs and tech and
-which was deep, deep, deep underground. Was this really what he wanted? Was
+to become a prisoner. A prisoner in a prison with lots of hugs and vintage tech
+and which was deep, deep, deep underground. Was this really what he wanted? Was
 _this_ something that would really help him to feel less empty inside?
 
