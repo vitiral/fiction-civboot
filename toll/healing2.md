@@ -1,5 +1,5 @@
 ```
-Author: Garrett Berg (github.com/vitiral)
+Author: Rett Berg (github.com/vitiral)
 Perspective: Toll Bansha
 Other characters: Maye Johnson
 Time period: 3 months 2 days After Event

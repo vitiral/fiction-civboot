@@ -1,5 +1,5 @@
 ```
-Author: Garrett Berg (github.com/vitiral)
+Author: Rett Berg (github.com/vitiral)
 Perspective: Toll Bansha
 Time period: 2 months Before Event
 Primary Location: Surface, Civboot A
