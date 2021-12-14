@@ -6,12 +6,12 @@ Time period: 3 months 3 days After Event
 Primary Location: Civboot A, main living areas
 ```
 
-When I came into the mess hall, the director of Civboot Alpha, Dr Taylor Jong,
-was already there sitting by herself; staring at a picture. She looked
-different than I had remembered her. I had always thought her face was
-particularly wrinkle free for someone in their lower sixties. In the last
-three months, her face seemed to have aged ten years. Distinct wrinkles formed
-around the eyes of a face that had, until now, rarely formed an expression.
+When I came into the mess hall, the director of Civboot Alpha, Dr Jong was
+already there sitting by herself; staring at a picture. She looked different
+than I had remembered her. I had always thought her face was particularly
+wrinkle free for someone in their lower sixties. In the last three months, her
+face seemed to have aged ten years. Distinct wrinkles formed around the eyes of
+a face that had, until now, rarely formed an expression.
 
 Then the real difference struck me. Her face, wrinkled as it was, was again
 more or less expressionless. Over the last months her expression had been like
@@ -48,20 +48,20 @@ is numb. I'm able to taste food again, find some things funny... even if my
 humor is a bit fucked up."
 
 Dr Jong chuckled "A fucked up humor is healthy in a time like this. So too is
-your feeling of numbness. Few in history have ever experienced anything
-comparable. Maybe Noah at the flood of the world? Yet despite the earth itself
-crying for 40 days and nights, there was little mention of Noah's sadness. How
-are we supposed to feel? Supposed to cope?" Her face took on an expression of
-almost anger "Fuck how we are supposed to cope. Just let the feelings be what
-they are. All things come and go. This too shall pass." It was said almost
-stoical, yet there was some sadness. The well could never go completely dry.
+numbness. Few in history have ever experienced anything comparable. Maybe Noah
+at the flood of the world? Yet despite the earth itself crying for 40 days and
+nights, there was little mention of Noah's sadness. How are we supposed to feel?
+Supposed to cope?" Her face took on an expression of almost anger "Fuck how we
+are supposed to cope. Just let the feelings be what they are. All things come
+and go. This too shall pass." It was said almost stoical, yet there was some
+sadness. The well could never go completely dry.
 
 "As a former Medical Commander in the Navy I thought myself pretty resilient"
 she continued. "Nobody but a true sociopath could be resilient to what has
 happened. As a doctor I try to remind myself the need to heal, that sometimes
-healing is more painful than the wound. Sometimes you never recover. Or
-recovery means permanent change. We will never be the same again. But we must
-try to go on, in whatever way we can."
+healing can be more painful than the injury itself. Sometimes you never recover.
+Or recovery means permanent change. We will never be the same again. But we must
+try to continue, in whatever way we can."
 
 More silence, this time less uncomfortable. We just sat, eating oatmeal for
 several minutes. "So, what should we do?" I asked. She seemed like the right
@@ -78,22 +78,22 @@ professional amount of space.
 that is. Then just calling me Dr should get my attention. There are very few
 people left alive, there is no need for hierarchies any longer."
 
-"Tay it is then" said Maye, "but I disagree with you that we don't need
-hierarchies. I very much want someone to lead me and I feel that person should
-be you. I'm tired of wallowing in this state of doing nothing. Toll and I have
-cleaned up all the mess we've all left for the last several months; what's
-next? I signed up for being down here for three months. Will I now be
-underground for the rest of my life? What's going to happen?"
+"Tay then" said Maye, "but I disagree with you that we don't need hierarchies. I
+very much want someone to be in charge and I feel that person should be you. I'm
+tired of wallowing in this state of doing nothing. Toll and I have cleaned up
+some of our mess over the last several months; what's next? I signed up for
+being down here for three months. Will I now be underground for the rest of my
+life? What's going to happen?"
 
 Another silence fell. Tay and I had finished our oatmeal, so just sat back
 slowly sipping coffee. It was a tough question that nobody had the answer to.
 
 "Yes, you are probably right that we need a leader" said Tay. "I'm hurting just
 like everyone else so I wish that didn't have to be me, but I've probably got
-to be the one to bite the bullet and just do it. First of all I don't think we
-should push Carlos and Beth. Please give them whatever support comes naturally
-to you, but let them heal in their own way. For now it will just be the three
-of us; we'll do the best we can. Remind me again each of your specialties."
+to be the one to bite the bullet and do it. First of all I don't think we should
+push Carlos and Beth. Please give them whatever support comes naturally to you,
+but let them heal in their own way. For now it will just be the three of us;
+we'll do the best we can. Remind me again each of your specialties."
 
 "I'm a computer science PhD" I said. "I'm not an expert in Civboot but I took
 the programming training before coming down here. I've been pretty successful

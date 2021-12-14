@@ -21,13 +21,13 @@ should be done by someone with training in mechanical engineering.
 Unfortunately our resident mechanical engineer checked out a few months ago and
 is currently sleeping rent free in a compost heap.
 
-By the way, in case anyone is reading this -- yes I have gone from being a sobbing
-drunk to being an insufferable snarky bastard. Vulgar jokes are a coping
+By the way, in case anyone is reading this -- yes I have gone from being a
+sobbing drunk to being an insufferable snarky bastard. Vulgar jokes are a coping
 mechanism okay? I'm not normally this unfeeling but it sure beats feeling sad
 for myself all the time. I'm not just snarky, I'm also angry at pretty much
 everyone who's dead. I'm allowed to joke about the dead, seeing as I'm one of
 the few left who's still alive. It's all in the stages of grief, go read about
-it sometime.
+it somewhere else.
 
 So anyway, I start trying to figure out what is wrong with our shit paper
 dispenser. This thing is way over-engineered if all you want to do is make

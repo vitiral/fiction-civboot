@@ -43,7 +43,7 @@ could help him forget.
 Nearly three months he'd been like this, going off and on between drinking
 heavily and doing anything he could to numb himself. He wasn't sure how long he
 could stay alive in this state of perpetual despair. Jamie had killed himself
-on the second day.  The knowledge that his family had been incinerated in one
+on the second day. The knowledge that his family had been incinerated in one
 of the first rounds of H Bombs had put him into a kind of stasis. Toll hadn't
 even seen the man cry. There was just two days of shock followed by a rope
 around his neck and his body hanging from a pipe.
@@ -67,11 +67,11 @@ knew who detonated it, although it was postulated that it had been an accident
 and North Korea had accidentally detonated one of their own. Regardless,
 what happened next was far, far worse. Some software routine with a bug of
 cataclysmic consequences noticed the detonation and starting sending out nukes
-of it's own from China.  This software was supposed to have been verified and
+of it's own from China. This software was supposed to have been verified and
 tested to not do this for a single detonation under any circumstances, since
 the designers _knew_ the possibilities of accidental detonation. They also
 knew the consequences of sending nukes over half the world: mutually assured
-destruction. More H Bombs coming out of china triggered other software to
+destruction. More H Bombs coming out of China triggered other software to
 behave exactly as intended, turning the cities of China into a field of glass.
 China's software, noticing the incoming Nucs returned the favor to the rest of
 the world.
@@ -106,8 +106,8 @@ of place you would want to find yourself in the apocalypse. Which was exactly
 where Toll did find himself.
 
 So everyone started dying and eventually all contact with the surface was lost.
-The final reports had been images of empty cities, what few hadn't been nuked
-to glass. Oil wells spewing crude into the oceans. Fires across the earth with
+The final reports had been images of empty cities, what few hadn't been
+flattened. Oil wells spewing crude into the oceans. Fires across the earth with
 a blackened sky. Destruction. Death. Despair. Destruction. Death. Despair.
 
 "Destruction. Death. Despair. Destruction. Death. Despair."
@@ -128,8 +128,8 @@ touch that had been built up over a lifetime had suddenly collapsed in the well
 of sadness they now found themselves. Nearly animal instincts had replaced the
 carefully practiced social dance. They were like animals trying to find shelter
 from a hurricane of despair. Toll could blearily remember the intimate contact
-he had shared with Maye, how there had been no thought put into it. How it had
-felt not exactly good or bad. Barely even a relief of tension.
+he had shared with Maye, how instinctual it had been. Not exactly good or bad.
+A release of tension and lifeline to something real.
 
 He took her in his arms again. His muscles tensed to hug tightly,
 simultaneously releasing built-up tension elsewhere. It felt good to be here.
@@ -156,8 +156,8 @@ It had always acted to only deepen Toll's sadness. To remind him of what was
 lost. What would never be returned. He didn't have kids, but he had known many
 people on the surface. There were deep connections that had now been severed.
 With his parents and brother. With his best friends. With his ex-girlfriends,
-one of which he had continued a friendship with and had always hoped to marry
-one day.
+one of which he had continued a friendship. Another he had continued to hold
+onto a crush despite knowing it would never happen.
 
 This time was different, something lifted. He only nodded, noticing surprise on
 Maye's face. He was surprised himself. He could feel a large part of the tension
@@ -168,7 +168,7 @@ tragedy within as little as three months. Perhaps that was him. Perhaps he was
 finally healing.
 
 They sat down next to each other with their oatmeal, it's warmth felt good in
-Toll's stomach.  "So as I was saying," continued Maye "we need to start living
+Toll's stomach. "So as I was saying," continued Maye "we need to start living
 again. Start _doing_ something... I'm just not sure what we should do. We can't
 go to...  go to the surface. At least not yet! But we shouldn't just stay down
 here and mope either."
@@ -184,7 +184,7 @@ other things too" she said vaguely, waving her hands "like doing maintenance
 checks, changing the air filters, transferring the compost..." she trailed off,
 the thought of Jaime's body sitting in said compost stopping her short. In not
 terribly long Jaime's corpse would be incorporated into their food. The circle
-of life, normally a comforting thought fell short in this instance.
+of life.
 
 "Anyway" she continued, "we should start doing some work if for no other reason
 than work is good for us. Having something to do will help us all feel better."
@@ -192,21 +192,21 @@ than work is good for us. Having something to do will help us all feel better."
 "I'm still wondering whether I even want to feel better" Toll said "or whether
 I just want to follow Jaime's lead."
 
-"Don't do that!" she yelled in anger. "Don't do that... we need you. I need
-you!" she started crying, her tear free cheeks flooding freely "I've already
-lost the world, I can't loose you too. I can't loose another friend. Not now.
+"Don't do that!" she hissed in anger. "Don't do that... we need you. I need
+you." she started crying, her tear free cheeks flooding freely "I've already
+lost the world, I can't loose any more. I can't loose another friend. Not now.
 Please don't say that."
 
 "I won't do it" Toll said, putting his arm around her and holding her body
-close to his "but I can't say I don't think about it. I think we are all
-thinking about it. It's one of the few coherent thoughts I have now, one of the
-few things that reminds me I'm still here." She put her face into his shoulder,
-her sobs beginning to lessen. His hand moved up, stroking the hair on her
-forehead away. "Don't worry about me, I'm not going anywhere. I think you're
-right, we need to start doing something. But let's leave it at that for the
-day? I feel tired again and want to lie down." Toll pushed his oatmeal away,
-only half eaten. The kitchen was a mess, full of half eaten food poorly
-cleaned.
+close to his "but I can't say I don't think about it. It's one of the few
+coherent thoughts I have, one of the few things that reminds me I'm still here."
+She put her face into his shoulder, her sobs beginning to lessen.
+
+His hand moved up, stroking the hair on her forehead away. "Don't worry about
+me, I'm not going anywhere. I think you're right, we need to start doing
+something. But let's leave it at that for the day? I feel tired again and want
+to lie down." Toll pushed his oatmeal away, only half eaten. The kitchen was a
+mess, full of half eaten food on unclean dishes.
 
 She was right of course, they would at least have to start cleaning properly.
 Cooking real food again, taking care of the vertical farm. And then there was
