@@ -15,16 +15,16 @@ read them is below.
 Characters
 - Toll Bansha: 30 year old man. CS PhD, previously working at NASA on satelite
   imaging. Single, wishes to become a martian astronaut. Just arrived.
-- Beth Harmen: 37 year old woman. PhD in Materials Science. Married with two
-  children age 12 and 14. Arrived with Tay.
+- Beth Harmen: 37 year old woman. PhD in Computer Hardware Engineering and
+  Materials Science. Married with two children age 12 and 14. Arrived with Tay.
 - Jamie Hael: 35 year old man. Mechanical engineer and genius. Minimal college
   education, but excells at Civboot engineering. Husband and father of two young
   kids. One year into stay.
 - Dr Taylor (Tay) Jong: 63 year old woman. Medical doctor and former medical
   commander in the Navy. Mother of two and gradmother of three. Third time
   in Civboot, almost one year six months into current stay.
-- Carlos Morales: 48 year old man. PhD in Chemical Engineering. Married with no
-  children. Arrived with Tay.
+- Carlos Morales: 48 year old man. PhD in Bio and Chemical Engineering. Married
+  with no children. Arrived with Tay.
 - Maye Johnson: 42 year old woman. Masters in bioengineering and food
   production, working towards PhD in bioengineering. Divorced mother of two boys
   who recently graduated high school. Four months into stay.
