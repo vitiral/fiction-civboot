@@ -31,6 +31,7 @@ Characters
 
 Underground (T - 2 months)
 - [Toll Underground 1](toll/underground1.md)
+- [Toll Underground 2](toll/underground2.md)
 
 Healing (T + 2 months)
 - [Toll Healing 1](toll/healing1.md)
