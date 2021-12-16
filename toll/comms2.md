@@ -6,6 +6,8 @@ Time period: 5 months 3 days After Event
 Primary Location: Civboot A
 ```
 
+TODO: need to make present tense.
+
 I was having some insomnia tonight. While trying to go to sleep my mind slipped
 back to before the nucs fell, to a video I'd watched when I was trying to avoid
 working. It had been about how a guy had hacked into like 30 devices or

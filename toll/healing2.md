@@ -14,12 +14,12 @@ Wonderful.
 
 Since this whole Civboot is built to be "as simple as possible" you would
 figure repairing a problem like this would be easy. "Easy for who?" is the
-relevant question. You see, this tin can was built with the idea that there
-would be lots of _experts_ living in it, each with eight or more years of
-training for the complexities related to their specialty. This particular issue
-should be done by someone with training in mechanical engineering.
-Unfortunately our resident mechanical engineer checked out a few months ago and
-is currently sleeping rent free in a compost heap.
+relevant question. You see, it was built with the idea that there would be lots
+of experts living in it, each with eight or more years of training for the
+complexities related to their specialty. This particular issue should be done by
+someone with training in mechanical engineering. Unfortunately our resident
+mechanical engineer checked out a few months ago and is currently sleeping rent
+free in a compost heap.
 
 By the way, in case anyone is reading this -- yes I have gone from being a
 sobbing drunk to being an insufferable snarky bastard. Vulgar jokes are a coping
@@ -40,16 +40,8 @@ paper you can imagine we want it to be as flexible as possible, so that means
 very little glue. We also want it to be as thin as possible. All this is
 programmable in the console.
 
-Let's talk about the software in a Civboot. It is text based. The really
-advanced ones have little drawings consisting of wire meshes. It's like whoever
-built this place really loved watching Tron and dreamed of a retro-futuristic
-70's future. Having a PhD in computer science I know _why_ it is built this
-way, but it still sucks. Like everything else in this place they wanted
-everything to be "as simple as possible." The software is so basic that a
-teenager could probably understand and modify it.
-
-Anyway, to use this machine you get on the terminal and type `help` into a
-keyboard. It pops up with:
+To use this machine you get on the terminal and type `help` into a keyboard. It
+pops up with:
 
 ```
 PAMELA: PlAnt MatEriaL mAker
@@ -87,14 +79,14 @@ HORIZONTAL ACTUATOR...  ERROR
   May be blocked or broken.
   Inspection needed.
 OVERHEAD LIGHT... OK
-LOTION DISPENSER...
+LOTION DISPENSER... OK
 ```
+There are more logs but I ignore them.
 
 What the `LOTION DISPENSER` is I have no idea. My guess is it's a Baywatch joke
 and it's for the glue dispenser. The diagnostics continued with most of the
-parts saying OK, some saying they required scheduled maintenance. The
-Horizontal Actuator was apparently malfunctioning. Pamela, you're a real life
-saver.
+parts saying OK, some saying they required scheduled maintenance. The Horizontal
+Actuator was apparently malfunctioning. Pamela, you're a real life saver.
 
 Re-reading the help menu I see there are actually maintenance logs for the failing
 part. I type `logs view "HORIZONTAL ACTUATOR"` as suggested and see the
@@ -110,8 +102,8 @@ following logs from about a year ago:
 6. reran diagnostics again, came back OK
 ```
 
-Well, that was all pretty clear. I followed the steps, found and fixed
-the bent part and re-ran diagnostics. It came back with:
+Well, that was all pretty clear. I follow the steps, find and fix the bent part
+and re-ran diagnostics. It comes back with:
 
 ```
 HORIZONTAL ACTUATOR...  WARN
@@ -120,21 +112,21 @@ HORIZONTAL ACTUATOR...  WARN
     logs update "HORIZONTAL ACTUATOR"
 ```
 
-I updated the logs to say to refer to the previous log. I then looked at the
-configuration files and found the configuration for making toilet paper.  I
-told pamela to make 20 days worth of toilet paper for five people. I also
-updated the scheduled toilet paper production to be for only five people
+I update the logs to say to refer to the previous log. I then look at the
+configuration files and find the configuration for making toilet paper.  I
+tell pamela to make 20 days worth of toilet paper for five people. I also
+update the scheduled toilet paper production to be for only five people
 instead of the previous six... I wonder how many places have the number of
-inhabitants hard-coded and would need to be manually updated?
+inhabitants hard-coded and need to be manually updated?
 
-At this point I was starting to feel pretty good about living in this
-particular tin can. There had been a problem with a system and it had been
-solvable by the previous maintenance log with no expertise required. Why the
-metal part kept getting bent was definitely something that should be looked
-into...  but it had happened a year ago, there were more pressing matters. The
-point was, maybe we were going to be able to survive in this Civboot after all.
+At this point I'm starting to feel pretty good about living in this particular
+tin can. There was a problem with a system and it was solvable through looking
+at the previous maintenance log. Why the metal part kept getting bent was
+definitely something that should be looked into...  but it happened a year ago,
+there were more pressing matters. The point is, maybe we were going to be able
+to survive in this Civboot after all.
 
-I did have one more curiosity though. I typed `man pamela` and searched for
+I was curious about one more thing though. I type `man pamela` and search for
 `LOTION`. I wish I hadn't.
 
 ```

@@ -6,6 +6,8 @@ Time period: 3 months 3 days After Event
 Primary Location: Civboot A, main living areas
 ```
 
+TODO: need to make present tense.
+
 When I came into the mess hall, the director of Civboot Alpha, Dr Jong was
 already there sitting by herself; staring at a picture. She looked different
 than I had remembered her. I had always thought her face was particularly
