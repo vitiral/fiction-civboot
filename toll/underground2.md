@@ -2,7 +2,7 @@
 Author: Rett Berg (github.com/vitiral)
 Perspective: Toll Bansha
 Time period: 1 month 30 days BE
-Primary Location: Surface, Civboot A
+Primary Location: Civboot A
 ```
 
 After a shower I arrive at breakfast at exactly 6:30AM. I played with my new
@@ -134,9 +134,10 @@ Of the autoharvested food, there are only really two proviers of software.
 DuPointee who maintains a ready-made package of robots, software, communication,
 verticle farms, sales teams and lawsuits. And Civboot which is completely open
 and was invested in heavily by NASA and then by certain large tech companies,
-world goverments, universities and hobbiests. About 70% of all food is produced
-with DuPointee's product line but they represent only 5% of food producing
-entities. Basically the big fish use DuPointee while the small fish use Civboot.
+world goverments, universities, hobbiests and finally many in the verticle
+farming industry. About 70% of all food is produced with DuPointee's product
+line but they represent only 5% of food producing entities. Basically the big
+fish use DuPointee while the small fish use Civboot.
 
 The software and hardware is extremely unusual for a system that should be using
 an extremely large "Machine Learning" or "Artificial Inteligence" tech stack.
@@ -144,10 +145,11 @@ Typically these systems are power and memory hungry beasts. Training them
 requires terrabytes of reference photos, and the robots themselves are sprawling
 amounts of code and complex hardware. Civboot robots approach it backwards. Yes,
 they do use some machine learning in order to recognize what to harvest and what
-to prune, but they are basically just using image recognition along with the
-knowledge of how old each plant is. It uses a small amount of custom hardware to
-do this, basically just arrays of single byte floating point multiplication and
-division logic units.
+to prune, but they are basically just using image recognition, a simple track
+system, and knowledge of how old each plant is. It uses a small amount of custom
+hardware to do this, basically just arrays of single byte floating point
+multiplication and division logic units. It requires a little more manual effort
+and doesn't get the same yields, but it is a hell of a lot simpler and cheaper.
 
 Here's what the robot does. (1) takes a large scale picture of the whole plant.
 (2) image recognition tells it what needs to be harvested and pruned (3) the
@@ -194,7 +196,7 @@ discuss which row of the farm is having issues. When I get back to the computer
 I start using `serf images` to view the images. I filter by the row Maye gives
 me and start looking at the images.
 
-serflord pops up images from one of the failed harvests, annotated with colored
+Serflord pops up images from one of the failed harvests, annotated with colored
 boxes and a key as to what each box was categorized as. From the images it seems
 that all of the raspberries were being properly detected. "Not a software
 problem so far" I mutter to myself. I check what the harvester is currently doing.
@@ -230,8 +232,7 @@ the logs from some of the old runs. When I do I see the same errors cropping up
 repeatedly. I try using a different robot to do the same harvest, but it gets
 the same result.
 
-At this point I'm stumped and send what I found out, along with the video, to
-NASA. I haven't completely ruled out either software or hardware, but there
-should be enough to determine the next step I should take. It feels like a good
-day's work.
+At this point I'm stumped and send the video and what I found to NASA. I haven't
+completely ruled out either software or hardware, but there should be enough to
+determine the next step I should take. It feels like a good day's work.
 
